@@ -1,1 +1,4 @@
-# JavaPatterns
+# JavaPatterns  
+- Builder
+- Singleton
+- Adapter
